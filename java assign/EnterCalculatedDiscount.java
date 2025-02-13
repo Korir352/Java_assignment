@@ -22,10 +22,6 @@ public class EnterCalculatedDiscount {
         System.out.println("Discount: " + discount);// show the output
         System.out.println("Final Price: " + (SalesAmount - discount));// output the final price
 
-        scanner.close();/*
-                         * Ronald Kipkosgei
-                         * Reg No. CT101/G/20386/23
-                         * OOPII
-                         */
+        scanner.close();
     }
 }
